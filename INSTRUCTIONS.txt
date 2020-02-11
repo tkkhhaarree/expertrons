@@ -1,0 +1,10 @@
+Clone or unzip the folder.
+then using cd command, go to expertrons folder in command prompt. i.e: cd expertrons
+first type command: npm install
+then use cd command to go to client folder inside expertrons folder. i.e cd client
+then again run command: npm install
+then come back to expertrons folder using command: cd ..
+type command: npm run dev
+this will run the application
+
+If having some problem in above method: contact me on: 9560349048

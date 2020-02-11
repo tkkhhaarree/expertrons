@@ -1,0 +1,2 @@
+clone the repository from: https://github.com/tkkhhaarree/expertrons
+see INSTRUCTIONS.txt file inside repository for instructions to run
